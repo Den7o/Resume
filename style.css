@@ -1,0 +1,25 @@
+body{
+    background: url("photo.jpeg");
+    color: orange
+}
+dt { 
+    color: white;
+    font-style: italic;
+    font-weight: bold; 
+    font-size: 18px; 
+    text-align: right; 
+    padding: 25px 10px 0 0; 
+    width: 150px; 
+    float: left; 
+    height: 70px; 
+    border-right: 1px solid #999;  
+}
+h2 { 
+    font-size: 20px; 
+    margin: 0 0 6px 0;  
+}
+dd { width: 600px; float: right; }
+strong{
+    color: white;
+}
+
